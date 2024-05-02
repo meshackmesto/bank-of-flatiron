@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import TableTransaction from './Components/TableTransaction';
+import TableTransaction from './components/TableTransaction';
 
 function App() {
   let TransactionRecords = [

@@ -2,7 +2,7 @@ import React from 'react';
 import TransactionRow from './TransactionRow';
 import { useState } from 'react';
 import AddTransaction from './AddTransaction';
-import SearchBox from './SearchBox';
+import SearchBox from './searchBox';
 
 function TableTransaction({records}) {
   // the below usestate holds the records in a variabke alled stateRcords
