@@ -10,7 +10,9 @@
   grid-template-columns: 1fr;
 }
 
-
+body{
+  background-image: url(https://images.app.goo.gl/co9trGvvaYee83cL7);
+}
 .royaltitle{
   background-color: #bababa;
   padding: 1em;
